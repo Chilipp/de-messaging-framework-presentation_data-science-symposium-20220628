@@ -23,6 +23,13 @@ member of Digital Earth or the Working Group for Distributed Data Analysis
 within Datahub). If you are
 interested, please get in touch with me (Philipp S. Sommer from HZG).
 
+## Note
+
+This talk is an adaption of the talk on the 5th Data Science Symposium 2021,
+namely
+
+> Sommer, Philipp S., Wichert, Viktoria, Eggert, Daniel, Dinter, Tilman, Getzlaff, Klaus, Lehmann, Andreas, … Schäfer, Angela. (2021, January). Distributed data analysis for better scientific collaborations (Version v1.0). Presented at the 5th Data Science Symposium, Zenodo. http://doi.org/10.5281/zenodo.4456787
+
 
 ## Acknowledgements
 
