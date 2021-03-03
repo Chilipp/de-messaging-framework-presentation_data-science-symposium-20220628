@@ -2,6 +2,8 @@
 
 _International Series of Online Research Software Events (SORSE), March 3rd, 2021_
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4575652.svg)](https://doi.org/10.5281/zenodo.4575652)
+
 **Authors:** Philipp S. Sommer, Viktoria Wichert, Daniel Eggert, Tilman Dinter,
 Klaus Getzlaff, Andreas Lehmann, Christian Werner, Brenner Silva,
 Lennart Schmidt, Angela Schäfer
@@ -29,6 +31,12 @@ This talk is an adaption of the talk on the 5th Data Science Symposium 2021,
 namely
 
 > Sommer, Philipp S., Wichert, Viktoria, Eggert, Daniel, Dinter, Tilman, Getzlaff, Klaus, Lehmann, Andreas, … Schäfer, Angela. (2021, January). Distributed data analysis for better scientific collaborations (Version v1.0). Presented at the 5th Data Science Symposium, Zenodo. http://doi.org/10.5281/zenodo.4456787
+
+please cite it as following:
+
+> Philipp S. Sommer, Viktoria Wichert, Daniel Eggert, Tilman Dinter, Klaus Getzlaff, Andreas Lehmann, … Angela Schäfer. (2021). A new distributed data analysis framework for better scientific collaborations. Presented at the International Series of Online Research Software Events (SORSE), Zenodo. http://doi.org/10.5281/zenodo.4575652
+
+or use the different formats provided at http://doi.org/10.5281/zenodo.4575652
 
 
 ## Acknowledgements
