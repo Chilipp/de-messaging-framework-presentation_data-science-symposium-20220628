@@ -1,0 +1,52 @@
+# YAML 1.2
+---
+cff-version: "1.2.0"
+message: "If you refer to this talk, please cite it as"
+title: "New approaches for distributed data analysis with the DASF Messaging Framework"
+authors:
+  - family-names: Sommer
+    given-names: "Philipp S."
+    affiliation: "Helmholtz-Zentrum Hereon"
+    orcid: "https://orcid.org/0000-0001-6171-7716"
+    website: "https://www.philipp-s-sommer.de"
+    post-code: 21502
+    city: Geesthacht
+    country: DE
+    email: philipp.sommer@hereon.de
+  - family-names: Eggert
+    given-names: Daniel
+    affiliation: GFZ German Research Centre for Geosciences
+    orcid: "https://orcid.org/0000-0003-0251-4390"
+  - family-names: Wichert
+    given-names: Viktoria
+    affiliation: "Helmholtz-Zentrum Hereon"
+    orcid: "https://orcid.org/0000-0002-3402-6562"
+  - family-names: Baldewein
+    given-names: Linda
+    affiliation: "Helmholtz-Zentrum Hereon"
+    orcid: "https://orcid.org/0000-0002-9477-516X"
+  - family-names: Dinter
+    given-names: Tilman
+    affiliation: Alfred-Wegener-Institut - Helmholtz-Zentrum für Polar- und Meeresforschung
+    orcid: "https://orcid.org/0000-0002-1505-8833"
+  - family-names: Werner
+    given-names: Christian
+    affiliation: Karlsruhe Institute of Technology
+    orcid: "https://orcid.org/0000-0001-7032-8683"
+contact:
+  - email: philipp.sommer@hereon.de
+    name: "Presenting author"
+license: "CC-BY-4.0"
+repository-code: https://github.com/Chilipp/de-messaging-framework-presentation_data-science-symposium-20220628
+type: software
+keywords:
+  - dasf
+  - data-science-symposium
+  - datahub
+  - digital earth
+  - helmholtz
+  - hereon
+  - GFZ
+  - pulsar
+  - remote procedure call
+...
