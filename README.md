@@ -20,6 +20,9 @@ DASF is developed at the GFZ German Research Centre for Geosciences and was fund
 
 ## Note
 
+The source code for the DASF Messaging Framework is open-source at
+https://git.geomar.de/digital-earth/dasf/dasf-messaging-python
+
 This talk is an adaption of the talk at the EGU 2021:
 
 > Sommer, P. S., Wichert, V., Eggert, D., Dinter, T., Getzlaff, K., Lehmann, A., Werner, C., Silva, B., Schmidt, L., and Schäfer, A.: A new distributed data analysis framework for better scientific collaborations, EGU General Assembly 2021, online, 19–30 Apr 2021, EGU21-1614, https://doi.org/10.5194/egusphere-egu21-1614, 2021.
